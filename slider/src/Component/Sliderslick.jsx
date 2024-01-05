@@ -60,10 +60,10 @@ const Sliderslick=()=> {
             <h3>Slider 6</h3>
           </div>
           <div>
-            <h3>Slider 7</h3>
+            <h3>Image 2</h3>
           </div>
           <div>
-            <h3>Slider 8</h3>
+            <h3>image 1</h3>
           </div>
         </Slider>
       </div>
